@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20Hamtoto's%20GitHub&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<h3 align="center"> Tech Stack </h3>
-<div style="display:flex; flex-direction:row;" align="center">
+<h3>Tech Stack</h3>
+<div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> 
@@ -14,8 +14,10 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
     <br>
 </div>
-<h3 align="center"> Tools </h3>
-<div style="display:flex; flex-direction:row;" align="center">
+
+<h3>Tools</h3>
+
+<div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=FFFFFF"/> 
     <img src="https://img.shields.io/badge/Notion-F3F3F3?style=flat&logo=notion&logoColor=black"/>
@@ -26,5 +28,10 @@
 </div>
 <br>
 
-![Hamtoto's github stats](https://github-readme-stats.vercel.app/api?username=Hamtoto&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=donut)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gohg0901)](https://solved.ac/gohg0901/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact)
+
+<h3>Contacts</h3>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gohg0901@gmail.com)](mailto:gohg0901@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:gohg0901@naver.com)](mailto:gohg0901@naver.com)
