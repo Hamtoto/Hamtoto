@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/intellij idea-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyCharm-000?style=flat&logo=pycharm&logoColor=white"/>
 </div>
 <br>
 
