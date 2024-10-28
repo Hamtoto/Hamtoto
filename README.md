@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"> 
     <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=ReactRouter&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/styled-components-DB7098?style=flat&logo=styled-components&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
@@ -30,7 +31,7 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3?style=flat&logo=notion&logoColor=black"/>
     <br>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
     <img src="https://img.shields.io/badge/intellij idea-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000?style=flat&logo=pycharm&logoColor=white"/>
 </div>
