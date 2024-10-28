@@ -15,6 +15,13 @@
     <br>
 </div>
 
+<h3>Design Stack</h3>
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black">
+
+</div>
+
 <h3>Tools</h3>
 
 <div style="display:flex; flex-direction:row;">
