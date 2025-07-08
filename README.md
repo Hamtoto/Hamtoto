@@ -2,8 +2,8 @@
 
 <h3>Tech Stack</h3>
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> 
     <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"> 
