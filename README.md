@@ -10,13 +10,14 @@
     <img src="https://img.shields.io/badge/styled-components-DB7098?style=flat&logo=styled-components&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-    <br>
 </div>
+
 <h3>Design Stack</h3>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black">
 </div>
+
 <h3>Tools</h3>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=FFFFFF"/>
@@ -27,6 +28,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000?style=flat&logo=pycharm&logoColor=white"/>
 </div>
+
 <h3>AI Tools</h3>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white">
@@ -34,8 +36,17 @@
 </div>
 
 <br>
-[[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gohg0901)](https://solved.ac/gohg0901/)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact)
+
+<a href="https://solved.ac/gohg0901/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gohg0901" alt="Solved.ac Profile">
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact" alt="Top Langs">
+
 <h3>Contacts</h3>
-[[Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gohg0901@gmail.com)](mailto:gohg0901@gmail.com)
-[[Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:gohg0901@naver.com)](mailto:gohg0901@naver.com)
+<a href="mailto:gohg0901@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
+<a href="mailto:gohg0901@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" alt="Naver Badge">
+</a>
