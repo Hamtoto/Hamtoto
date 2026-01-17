@@ -34,8 +34,8 @@
 </div>
 
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gohg0901)](https://solved.ac/gohg0901/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact)
+[[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gohg0901)](https://solved.ac/gohg0901/)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact)
 <h3>Contacts</h3>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gohg0901@gmail.com)](mailto:gohg0901@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:gohg0901@naver.com)](mailto:gohg0901@naver.com)
+[[Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:gohg0901@gmail.com)](mailto:gohg0901@gmail.com)
+[[Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:gohg0901@naver.com)](mailto:gohg0901@naver.com)
