@@ -41,8 +41,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gohg0901" alt="Solved.ac Profile">
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact" alt="Top Langs">
-
 <h3>Contacts</h3>
 <a href="mailto:gohg0901@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
