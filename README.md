@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white">
     <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white">
 </div>
+
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gohg0901)](https://solved.ac/gohg0901/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact)
