@@ -89,11 +89,6 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hamtoto&theme=dark&hide_border=true&background=0D1117&ring=4a7c59&fire=5aab7a&currStreakLabel=5aab7a&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
-
-<br/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gohg0901)](https://solved.ac/gohg0901/)
-
 </div>
 
 ---
