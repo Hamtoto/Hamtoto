@@ -14,7 +14,7 @@
 
 ```
 ⚡  Full-Stack + ML + AI Integration (Web · Edge · LLM)
-🎨  Prompt Engineer · ComfyUI / Stable Diffusion tinkerer
+🎨  Prompt Engineer / Stable Diffusion tinkerer
 🖥️  Linux enthusiast (EndeavourOS/Arch), hardware DIYer
 📍  Seoul, Korea
 ```
