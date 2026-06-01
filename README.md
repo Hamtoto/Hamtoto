@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a3a2a,100:4a7c59&text=Hamtoto&fontSize=60&fontAlignY=42&fontAlign=50&height=220&fontColor=ffffff&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=62&descAlign=50&descSize=17&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a3a2a,100:4a7c59&text=Hamtoto&fontSize=60&fontAlignY=42&fontAlign=50&height=220&fontColor=ffffff&desc=AI-Powered%20Full-Stack%20Developer%20%7C%20ML%20%C2%B7%20LLM%20%C2%B7%20Computer%20Vision&descAlignY=62&descAlign=50&descSize=17&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=5aab7a&center=true&vCenter=true&width=600&lines=Building+AI+at+the+edge+of+agriculture+%F0%9F%8C%B1;Full-Stack+%2B+ML+%2B+Prompt+Engineering;Turning+soil+data+into+crop+predictions;Edge+AI+%7C+Computer+Vision+%7C+LLM+Integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=5aab7a&center=true&vCenter=true&width=600&lines=Building+with+AI%2C+not+just+about+AI+%F0%9F%A4%96;Full-Stack+%2B+ML+%2B+LLM+Integration;Turning+ideas+into+AI-powered+products;Edge+AI+%7C+Computer+Vision+%7C+Prompt+Engineering)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hamtoto&style=flat-square&color=4a7c59&label=PROFILE+VIEWS)
 
@@ -13,11 +13,40 @@
 ## 🧑‍💻 About Me
 
 ```
-⚡  Full-Stack + ML + AI Integration (Web · Edge · LLM)
-🎨  Prompt Engineer / Stable Diffusion tinkerer
+⚡  Full-stack developer who builds with AI (Web · Edge · LLM)
+🤖  ML model training · LLM integration · Prompt engineering
+🎨  Stable Diffusion / generative AI tinkerer
 🖥️  Linux enthusiast (EndeavourOS/Arch), hardware DIYer
 📍  Seoul, Korea
 ```
+
+I build products that **use AI as a tool** — from training my own ML models to wiring up LLMs into real services. Comfortable across the stack: frontend, backend, model, and infra.
+
+---
+
+## 🚀 What I'm Building
+
+> AI applied across the stack — ML models, LLM-powered services, and computer vision.
+
+| Project | AI Focus |
+|:--------|:---------|
+| 🌱 **SOILCAST** | ML prediction model (trained & served) |
+| 🍷 **AI Wine Curation** | LLM-based recommendation |
+| 🎨 **colorform ai** | Generative AI / image |
+| 👤 **Dual-Face-Tracking** | Computer vision |
+| 🎯 **cyrano marketing** | LLM-driven content automation |
+
+<details>
+<summary>📂 More projects</summary>
+
+<br/>
+
+- 📺 **DOOH Ad Platform** — digital signage / ad delivery
+- 🏠 **Smart Home Voice** — voice interface
+- 🎭 **Live Commerce Arch** — streaming commerce architecture
+- 🧰 **toolkit** — internal dev utilities
+
+</details>
 
 ---
 
@@ -67,28 +96,16 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project |
-|:--------|
-| 🌱 **SOILCAST** |
-| 📺 **DOOH Ad Platform** |
-| 🍷 **AI Wine Curation** |
-| 🏠 **Smart Home Voice** |
-| 🎭 **Live Commerce Arch** |
-| 🧰 **toolkit** |
-| 💎 **GEM** |
-| 🎯 **cyrano marketing** |
-| 🎨 **colorform ai** |
-| 👤 **Dual-Face-Tracking** |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Hamtoto&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=5aab7a&icon_color=4a7c59&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=5aab7a&text_color=c9d1d9)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hamtoto&theme=dark&hide_border=true&background=0D1117&ring=4a7c59&fire=5aab7a&currStreakLabel=5aab7a&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+
 </div>
 
 ---
