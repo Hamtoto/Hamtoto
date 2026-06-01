@@ -20,8 +20,6 @@
 📍  Seoul, Korea
 ```
 
-I build products that **use AI as a tool** — from training my own ML models to wiring up LLMs into real services. Comfortable across the stack: frontend, backend, model, and infra.
-
 ---
 
 ## 🚀 What I'm Building
