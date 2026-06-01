@@ -98,10 +98,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hamtoto&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=5aab7a&icon_color=4a7c59&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamtoto&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=5aab7a&text_color=c9d1d9)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hamtoto&theme=dark&hide_border=true&background=0D1117&ring=4a7c59&fire=5aab7a&currStreakLabel=5aab7a&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
